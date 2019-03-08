@@ -1,1 +1,1 @@
-iWeather
+Demo weather app
